@@ -1,3 +1,8 @@
+---
+title: 小白也能玩转Onedrive（进阶篇）-Oneindex搭建
+date: 2021-09-12 21:50:44
+tags:
+---
 <p><img src="https://ftp.bmp.ovh/imgs/2020/05/f02f2b6c3744611a.jpg" alt="" /></p>
 <h2>引言</h2>
 <p>看到了<a href="http://go.wumings.com" title="OneGo网盘导航">OneGo网盘导航</a>上的大佬们的Onedrive网盘资源站，你一定也很想拥有一个OneDrive网盘资源站吧。老实说，要是你眼睛尖一点的话，你可能已经注意到了OneGO网盘导航上有一个分区专门索引各种网盘程序，<strong>但是这么多令人眼花缭乱的目录程式，哪一款才是最简单，最易搭建的呢？</strong>
