@@ -1,3 +1,8 @@
+---
+title: Centos安装mysql
+date: 2021-09-12 21:50:44
+tags:
+---
 # 引言
 CentOS作为一款优秀的Linux发行版，受到了很多用户的青睐，但是新手往往会发现一个奇怪的地方，就是CentOS yum指令无法直接安装 MySQL 这一点让用惯了yum一键安装软件的用户着实感到很不方便，首先先来介绍一下为什么CentOS不能默认安装MySQL
 
